@@ -36,3 +36,7 @@
     transform: rotate(360deg);
   }
 }
+
+.glyphicon-globe {
+    font-size: 30px;
+}
